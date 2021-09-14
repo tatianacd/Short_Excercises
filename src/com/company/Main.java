@@ -6,13 +6,12 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        // write your code here
-        //Palindrome palindrome = new Palindrome();
+        Palindrome palindrome = new Palindrome();
 
-        //palindrome.findPalindrome();
+        palindrome.findPalindrome();
 
-        Fibonacchi fibonacchi = new Fibonacchi();
-        fibonacchi.fibonacchiNumbers();
+       // Fibonacchi fibonacchi = new Fibonacchi();
+       // fibonacchi.fibonacchiNumbers();
 
     }
 }
